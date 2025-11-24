@@ -32,9 +32,9 @@ from vars import API_ID, API_HASH, BOT_TOKEN, OWNER, CREDIT, AUTH_USERS, TOTAL_U
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN
+    api_id=39097403,
+    api_hash=c0a7c90594ca10dd347bd4a2e69ba3ff,
+    bot_token=8200758606:AAH-btHqaKhJqOT8EYd1euTfsrS89TsXBW0
 )
 
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.......,.....,
