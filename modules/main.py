@@ -34,7 +34,7 @@ bot = Client(
     "bot",
     api_id=39097403,
     api_hash=c0a7c90594ca10dd347bd4a2e69ba3ff,
-    bot_token=8200758606:AAH-btHqaKhJqOT8EYd1euTfsrS89TsXBW0
+    bot_token=8200758606:AAH-btHqaKhJqOT8EYd1euTfsrS89TsXBW0,
 )
 
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.......,.....,
